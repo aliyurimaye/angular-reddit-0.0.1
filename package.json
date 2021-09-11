@@ -54,13 +54,13 @@
   "main": "karma.conf.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aliyurimaye/angular-reddit.0.1.git"
+    "url": "git+https://github.com/aliyurimaye/angular-reddit.0.0.1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aliyurimaye/angular-reddit.0.1/issues"
+    "url": "https://github.com/aliyurimaye/angular-reddit.0.0.1/issues"
   },
-  "homepage": "https://github.com/aliyurimaye/angular-reddit.0.1#readme"
+  "homepage": "https://github.com/aliyurimaye/angular-reddit.0.0.1#readme"
 }
